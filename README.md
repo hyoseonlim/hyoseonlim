@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Russo+One&size=50&letterSpacing=0.1rem&pause=1000&color=000000&background=FEE7FF92&center=true&vCenter=true&width=500&height=100&lines=Hyo's+GitHub+%F0%9F%91%BE" alt="Typing SVG" /></a><br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Russo+One&size=50&letterSpacing=0.1rem&pause=1000&color=000000&background=FEE7FF92&center=true&vCenter=true&width=500&height=100&lines=Hyo's+GitHub+%F0%9F%91%BE" alt="Typing SVG" /></a><br/><br/>
 
 🎓 **Seoul National University of Science and Technology**  
 📧 **lovellehyo@gmail.com**  
