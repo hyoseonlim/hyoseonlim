@@ -3,7 +3,6 @@
 
 🎓 **Seoul National University of Science and Technology**  
 📧 **lovellehyo@gmail.com**  
-✏️ **https://hyo00.tistory.com/**  
 <br/>
 ## 💻 Tech Stack
 ### **Languages**
